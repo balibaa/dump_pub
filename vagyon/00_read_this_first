@@ -1,0 +1,9 @@
+rant indító: https://telex.hu/belfold/2025/03/09/vagyonnyilatkozat-keresheto-pdf-parlament-kepviselok
+
+file source: https://www.parlament.hu/documents/d/guest/kepviselok_20250228
+
+gyors (csak ingatlanokat összehúzó) koszos táblázatot készítő notebook: vagyon_2025.ipynb
+
+output: 2025_sorted.csv
+
+lehet rajta bőven finomítani, de most hirtelen, csak hogy legyen valami, ennyi.
